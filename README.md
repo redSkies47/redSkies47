@@ -1,4 +1,4 @@
-Hello there!👋 My name is Jonathan Chan. I'm a teacher looking to become a Software Engineer. I recently earned my B.S.
+Hello there!👋 My name is Jonathan Chan. I'm looking to become a Software Engineer. I recently earned my B.S.
 in Computer Science from Oregon State University. I'm currently living in Los Angeles, CA.
 
 📫 Reach out to my via email at jonathanchan12@yahoo.com
